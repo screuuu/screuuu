@@ -17,8 +17,9 @@ I'm a passionate **Software Developer** and **AI/ML Enthusiast** currently pursu
 - **Web-Based Applications**: Developed scalable web applications with Django and modern front-end frameworks.
 - **Data Processing & Insights**: Engineered solutions for large-scale data processing and analytics.
 
+
 ## 📫 Let's Connect!
-- 🔗 LinkedIn: [https://www.linkedin.com/in/prasanth-muntha-30b96623b/]
-- 📝 Portfolio: .....⚙️ on the way
+- 🔗 **[LinkedIn]([https://www.linkedin.com/in623b/](https://www.linkedin.com/in/prasanth-muntha-30b96623b/))**  
+- 📝 **Portfolio:** ⚙️ Coming soon!
   
 Let's build something amazing together! 🚀
