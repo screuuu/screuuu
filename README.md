@@ -19,7 +19,7 @@ I'm a passionate **Software Developer** and **AI/ML Enthusiast** currently pursu
 
 
 ## 📫 Let's Connect!
-- 🔗 **[LinkedIn]([https://www.linkedin.com/in623b/](https://www.linkedin.com/in/prasanth-muntha-30b96623b/))**  
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/prasanth-muntha-30b96623b/)**  
 - 📝 **Portfolio:** ⚙️ Coming soon!
   
 Let's build something amazing together! 🚀
